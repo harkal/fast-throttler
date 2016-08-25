@@ -1,0 +1,32 @@
+{
+  "name": "fast-throttler",
+  "version": "0.9.0",
+  "description": "This module provides a very fast and elegant way of throttling the invocation of any function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/harkal/fast-throttler.git"
+  },
+  "keywords": [
+    "throttling",
+    "rate",
+    "limiter"
+  ],
+  "author": "Harry Kalogirou <harkal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harkal/fast-throttler/issues"
+  },
+  "homepage": "https://github.com/harkal/fast-throttler#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "lru-cache": "^4.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
