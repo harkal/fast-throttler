@@ -1,6 +1,6 @@
 {
   "name": "fast-throttler",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "This module provides a very fast and elegant way of throttling the invocation of any function",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/harkal/fast-throttler.git"
+    "url": "git+https://github.com/harkal/fast-throttler.git"
   },
   "keywords": [
     "throttling",
