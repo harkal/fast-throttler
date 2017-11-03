@@ -1,5 +1,8 @@
-# fast-throttler
+![alt text](https://github.com/Besssy/fast-throttler/blob/master/images/logo.png)
 
+[![NPM Version](https://img.shields.io/npm/v/fast-throttler.svg)](https://www.npmjs.com/package/fast-throttler)
+
+## Description
 Throttle the amount of times your function runs by adding a limit.
 
 ## Installation
