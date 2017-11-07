@@ -1,6 +1,6 @@
 {
   "name": "fast-throttler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This module provides a very fast and elegant way of throttling the invocation of any function",
   "main": "index.js",
   "scripts": {
