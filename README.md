@@ -7,7 +7,7 @@ Throttle the amount of times your function runs by adding a limit.
 
 ## Installation
 
-` npm install fast-throller --save `
+` npm install fast-throttler --save `
 
 ## Simple Usage
 ```javascript 
